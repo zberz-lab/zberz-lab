@@ -1,17 +1,9 @@
-## Hi there 👋
+## 🚀 Security
+| Project | Summary | Tech |
+|---|---|---|
+| 🔍 Log Analyzer | 로그에서 이상징후 탐지 실습 | Python, Linux |
+| 🛡️ Web Security Notes | 취약점 학습/정리 | Markdown |
+| 🧰 Linux Practice | 명령어/권한/서비스 관리 | Ubuntu |
 
-- 🌱 I’m currently learning Security
-<!--
-**zberz-lab/zberz-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Security
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: royjo0402@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
